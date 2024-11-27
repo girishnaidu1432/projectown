@@ -6,3 +6,4 @@ openai
 langchain>=0.0.305
 beautifulsoup4>=4.12.2
 playwright>=1.37.0
+pip install -U lang
