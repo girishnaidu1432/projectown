@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pharmapatent",
+  "private_key_id": "31bcdce58966d31367a6f8174835d868219d6641",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNDQotXkNLfFXk\nwpBCG139fmlpm/NmvQaHNxUCmD8Awc7X6CXyvXczB4lO0Did36LxeXOfuBGMmUf8\nyc1XWHVBPb9KmynSa0uerc4ctl1IImuux7ikh/u5aDL+HkDKMTJL5YShYtFOqxu2\nLGijIpt9qObvZbn9fnstRc7qEhBWUcY6R/LeVMgxmZnwhGRQmdO0HPmG1F6R9o8a\nLC49pQQGYFY30TiUIkVBSk5pKXGDpS1s9E/lS03TWhqE0LmvSxC5PT+/lit7hY4r\nXwhH6TtWFKwuW6ISx4tBVmaGRlQ6JSwbFSqvRNMWSoxQcXrKCcgXQIkDPXCrYYP/\nheyFuILxAgMBAAECggEALxXEdYCEwWuuqZYH3DY+kfwaJpcaAEh9nEUIvQzKwti+\nL5PuStw45+3eGMv1hEMbPoneBBoXZYq5HhIU5e65Fh8gsvgIVXov5iMRBkTWDL9i\nrMLN4nIbWorT0siNpiA/5W+x0gFIAOGHvoBaEsPaorNLPEPGvq/xhwbVqag2Oiup\ns2PaL2rqWljtr46P3ixr+aDOVnjXXRTT+7OlhO0L0qi1gs9MECD/p4SWjjP39O3n\nxqeo32ctTgO8jlTE1UAdjiSFS+PEIDgKkVOChczDxA3sd1dvaRVlCtZEOpfzCojR\nUDleJfvsf1ErVS5z4p5gGppF+KmZbI/QC6nigrz/FQKBgQDp7pDJ2I3Eqy795tl6\nR5dZJMwzoViN+8Met32EiP0OJk74oM0jpIBlk54Q3QYCasEJ2SxbsdajSVn9e5cQ\nzmpAqiDkqDzjtk6mrjxo2MsH7xf0PFynGvU2uRf7RSrYADHa3sVzUxm2Euz7s3OD\nFKV6b62ORpqrHX3TIul0ji5NiwKBgQDgZQBmdkl+J1HS4+pxhB0zXhbRGhzppTft\nyEMHqk3BP3lZ/eKj34E3U+sLTNkkz77seAL02KqqE5Xi7MtOT58NFyfdZ/9O8wXD\nSG78+Qn/vh+Qv0mhFvAuusdOXzJsJITVNPwrHVQETxZp1shL5TBFZ5Js4eW+L4q2\nZjcUWzu48wKBgQComLCvWKysHnfqs/LvhyNUMwoc9977zYRN4g7Lc3N2PDPUSwgt\n9QQ4sRBNtQ38tfXUZDntCBnaayY5Y1Z33VyEqFi2k23269B5nr+ZDQ4e9Lm947cf\nFHXAb9wR00LSlClaRg3mVPEF4VP8/9NzmHC+8jgSf14/jyy8+79nqoVCiwKBgHTM\nHak3aImBbdWXTDBJ0+ko0DeGoAX9OV9LHZifzFkJ8OAmhhFGBLwHsg/vsBa5C2eK\nD//hxvM/voSfPDNGvkLSCq3zs7AkTpuW2C5Uch/rlgKBjpGKnvmzvonMgzJGz90p\n9xd57IFRqRjt8tOON9HoVw7Vhf+4PzsxePnfgvaBAoGBALgloK9+SYlLvqJFBnjt\nyf3Ib1rJBTYnJGPVFunVBx0SefPTcaKWgsRVA26Xrwg5CmEik5HAqaVFbxcYPZmy\n+KPNkrDjuBUFNKJF04tLOp+V9IcZ79q47XdjMEUsLy/bP56MF8mukHcqtq0l/h4s\njwtJYK2e4NCh/48czvxipYqM\n-----END PRIVATE KEY-----\n",
+  "client_email": "dg-518@pharmapatent.iam.gserviceaccount.com",
+  "client_id": "105972343449679559444",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dg-518%40pharmapatent.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
