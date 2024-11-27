@@ -3,4 +3,5 @@ google-cloud-bigquery
 google-auth
 google-api-python-client
 openai
-langchain
+langchain>=0.0.305
+
